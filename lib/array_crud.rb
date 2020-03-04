@@ -9,7 +9,7 @@ def Cars = ["BMW", "Mercedes","jaguar", "Audi"]
           Cars.pop
             Cars.shift
                Cars.index("BMW")
-               
+                 Cars[ -1 ]
                  
           
 end
